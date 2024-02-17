@@ -1,0 +1,17 @@
+p{
+    color: #00AA00;
+    font-size: 30px;
+    font-family: Arial;
+}
+form *{
+    width: 200px;
+    height: 30px;
+    margin: 5px;
+    box-sizing: border-box;
+ float:inline-start;
+}
+textarea{
+    width: 30px;
+    clear: both;
+    color:"#FFFFFF"
+}
